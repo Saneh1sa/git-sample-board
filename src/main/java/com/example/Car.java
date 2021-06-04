@@ -6,9 +6,9 @@ public class Car {
 	/**
 	 * スピード加速.
 	 * 
-	 * @return スピードを50足す
+	 * @return スピードを25足す
 	 */
 	public int addSpeed() {
-		return speed += 50;
+		return speed += 25;
 	}
 }
